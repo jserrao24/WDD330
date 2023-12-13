@@ -4,10 +4,6 @@ FOOD-RECIPES-APP (Made using HTML5, CSS3, API, Local Storage and JavaScript)
 
 You can see the website live at: https://5codeman.github.io/Food-Recipes_APP/
 
-Project demo video Link: https://www.youtube.com/watch?v=CuG0DDVyaVo
-
-TheMeal API Link: https://www.themealdb.com/api.php
-
 ## About this Project
 
   1. In this project i have created Food Recipes APP using HTML, CSS, JavaScript, API and Local Storage.
