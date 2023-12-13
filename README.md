@@ -1,4 +1,4 @@
-# Food-Recipes_APP
+# Recipes_project
 
 FOOD-RECIPES-APP (Made using HTML5, CSS3, API, Local Storage and JavaScript)
 
