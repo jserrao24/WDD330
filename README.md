@@ -2,7 +2,7 @@
 
 Made using HTML, CSS3, API, Local Storage and JavaScript
 
-You can see the website live at: https://5codeman.github.io/Food-Recipes_APP/
+You can see the website live at:  https://jserrao24.github.io/WDD330/
 
 # About this Project
 
